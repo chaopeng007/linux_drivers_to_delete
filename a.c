@@ -14,6 +14,7 @@ struct packet
     uint8_t cmd;
     uint32_t length;
     uint8_t * paylaod;
+    uint8_t * paylaod1;
 }
 */
 
